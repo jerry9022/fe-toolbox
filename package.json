@@ -1,0 +1,27 @@
+{
+  "name": "fe-toolbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry9022/fe-toolbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry9022/fe-toolbox/issues"
+  },
+  "homepage": "https://github.com/jerry9022/fe-toolbox#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "file-type": "^16.5.4",
+    "semver": "^7.3.8"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
